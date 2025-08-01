@@ -1,12 +1,31 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, minimal, and responsive portfolio website built using **React.js**, inspired by Japanese design and focused on showcasing work, projects, and contact information in a visually calm and intentional layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![Portfolio Screenshot](./preview.png) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- ⚡ **Responsive Design** — Optimized for all screen sizes
+- 🎯 **Smooth Navigation** — Scroll to sections from sticky nav links
+- 💻 **Project Showcase** — Highlights your best projects with descriptions and GitHub links
+- 📬 **Contact Form** — Built-in form to let people reach you via email
+- 💾 **Local Fonts** — Uses Google Fonts (DM Serif Display + IBM Plex Sans) for elegant typography
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js (Vite)
+- **Styling:** Custom CSS with rem/em units for responsiveness
+- **Email Handling:** EmailJS 
+
+---
+
+
