@@ -6,7 +6,7 @@ A clean, minimal, and responsive portfolio website built using **React.js**, ins
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./preview.png) 
+(image.png)
 
 ---
 
