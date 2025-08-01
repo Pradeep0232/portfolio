@@ -1,0 +1,28 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:1.25rem 2.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo{
+    font-weight: bold;
+    color: #C44536;
+    font-size: 1.5rem;
+    letter-spacing: 0.05rem;
+}
+
+.nav-links a{
+    margin-left: 1.25rem;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.nav-links a:hover{
+    color: #C44536;
+}
